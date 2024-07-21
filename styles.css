@@ -1,0 +1,28 @@
+#title{
+    color: aqua;
+}
+
+.fondo-verde{
+    background-color: green;
+}
+
+.color-rojo{
+    color: red;
+}
+
+#second-title:hover{
+    background-color: blue;
+}
+
+a[href="www.google.com"]{
+    background-color: deeppink;
+}
+
+a[href="www.facebook.com"]{
+    background-color: aqua;
+}
+
+.links *{
+    font-size: 20px;
+}
+
